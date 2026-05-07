@@ -492,6 +492,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/bcirehab/projects/9_project/";
+            },},{id: "teachings-brain-computer-interface-for-neurorehabilitation",
+          title: 'Brain-Computer Interface for Neurorehabilitation',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/bcirehab/teachings/BCI-for-Neurorehabilitation-2026/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
